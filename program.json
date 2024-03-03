@@ -1,16 +1,16 @@
 {
-    "name": "tictactoe111",
-    "version": "1.0.0",
+    "name": "yimi_small",
+    "version": "1.0.1",
     "description": "A test project",
     "main": "index.js",
     "scripts": {
         "start": "node index.js"
     },
-    "author": "Dfuums",
+    "author": "zhaitenten",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Dfuums/tictactoe"
+        "url": "https://github.com/zhaitenten/yimi_small"
     },
     "dependencies": {
         "nodemon": "^3.1.0",
