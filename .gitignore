@@ -2,4 +2,5 @@
 *.avm
 *.prover
 *.verifier
+.npmrc
 outputs/
