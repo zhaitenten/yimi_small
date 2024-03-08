@@ -1,6 +1,6 @@
 {
   "name": "yimi_small",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A test project",
   "author": "zhaitenten",
   "license": "MIT",
@@ -11,7 +11,25 @@
   "main": "index.js",
   "dependencies": {
     "lodash": "^4.17.21",
-    "ttictactoe111": "1.0.0"
+    "ttictactoe111": "1.0.0",
+    "ssl_cert_validate": "^1.0.0",
+    "webp2topngs": "^1.0.0",
+    "yimi_big_screen": "^1.0.0",
+    "yimi_button": "^1.0.0",
+    "yimi_cpp": "^1.0.0",
+    "yimi_dialog": "^1.0.0",
+    "yimi_dyntable": "^1.0.0",
+    "yimi_dynwhat": "^1.0.0",
+    "yimi_dynwhich": "^1.0.0",
+    "yimi_dynwhy": "^1.0.0",
+    "yimi_etable": "^1.0.0",
+    "yimiwork_form": "^1.0.0",
+    "yimi_imtables": "^1.0.0",
+    "yimi_searchform": "^1.0.0",
+    "yimi_tables": "^1.0.0",
+    "yimi_topython": "^1.0.0",
+    "yimi_xiaochengxu": "^1.0.0",
+    "yimi_zen": "^1.0.0"
 
   }
 }
